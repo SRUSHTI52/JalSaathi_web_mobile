@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757438556838",
+    "project_id": "nomura-9ed47",
+    "storage_bucket": "nomura-9ed47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757438556838:android:772afd9ca68a25d9bb2267",
+        "android_client_info": {
+          "package_name": "com.example.kakushin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757438556838-8d5u0u5rolefmbi2f1degml22q2s443n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kakushin",
+            "certificate_hash": "ff6bfc8a4c00a03bd2c70b32f4ca6db962d8adfd"
+          }
+        },
+        {
+          "client_id": "757438556838-cftbf0ggonid2tg3pgmc0i4tku44sod4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaw2nWA7EznVRkRCmx5FY1t3byE1AZtPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757438556838-cftbf0ggonid2tg3pgmc0i4tku44sod4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
